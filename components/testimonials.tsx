@@ -9,30 +9,30 @@ import { Carousel, CarouselContent, CarouselItem, CarouselNext, CarouselPrevious
 const testimonials = [
   {
     quote:
-      "NathCorp's cloud migration services transformed our business operations. Their team's expertise and dedication made the transition seamless and efficient.",
-    name: "Sarah Johnson",
-    title: "CTO, Global Retail Inc.",
+      "DocSync allows us to remove over 100 pounds of paper manuals from each of our aircraft saving fuel on every flight, and enables our pilots to dispose of their heavy flight bags; all while ensuring we remain in 100% compliance with FAA regulations regarding our flight manuals and the on-going updates required.",
+    name: "Check Airman",
+    title: "Major Airline",
     image: "/placeholder.svg?height=100&width=100",
   },
   {
     quote:
-      "Working with NathCorp has been a game-changer for our digital transformation journey. Their innovative solutions and strategic guidance have accelerated our growth.",
-    name: "Michael Chen",
-    title: "CEO, TechNova",
+      "Thanks for your team’s prompt and determined response to this issue.  It speaks well of NathCorp and its relationship with our airline.",
+    name: "VP, Flight Operations",
+    title: "Major Airline",
     image: "/placeholder.svg?height=100&width=100",
   },
   {
     quote:
-      "The security infrastructure implemented by NathCorp has given us peace of mind and protected our sensitive data. Their ongoing support is exceptional.",
-    name: "Emily Rodriguez",
-    title: "CISO, Financial Services Ltd.",
+      "Nathcorp provided a very detail oriented project manager and project team to provide oversight and ensure that Nathcorp’s resources properly aligned with our internal IT resources.  Their collaborative approach allowed us to complete our pilot within scope and within the agreed upon timeframe.",
+    name: "Terolyn Phinsee",
+    title: "Technical Project Manager",
     image: "/placeholder.svg?height=100&width=100",
   },
   {
     quote:
-      "NathCorp's data management solutions have revolutionized how we leverage our information assets. The insights we've gained have driven significant business value.",
-    name: "David Wilson",
-    title: "Data Director, Healthcare Systems",
+    "I can say that all of my expectations were achieved and my compliments to the team at NathCorp for a professional engagement.",
+    name: "David Damery",
+    title: "Director of IT, Allergan",
     image: "/placeholder.svg?height=100&width=100",
   },
 ]

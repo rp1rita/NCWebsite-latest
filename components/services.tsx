@@ -112,15 +112,12 @@ export default function Services() {
                     </p>
                     <Button
                       variant="ghost"
-                      className="p-0 h-auto text-white hover:text-blue-200 hover:bg-transparent group/btn"
+                      className="p-0 h-auto text-blue-600 hover:text-blue-700 hover:bg-transparent group/btn"
                       asChild
                     >
-                      <a
-                        href={service.href}
-                        className="flex items-center"
-                      >
-                        Learn more{" "}
-                        <ArrowRight className="ml-2 h-4 w-4 transition-transform duration-300 group-hover/btn:translate-x-1" />
+                      <a href={service.href} className="flex items-center">
+                        <span className="font-medium">Learn more</span>
+                        <ArrowRight className="ml-2 h-4 w-4 text-blue-600 transition-transform duration-300 group-hover/btn:translate-x-1 group-hover/btn:text-blue-700" />
                       </a>
                     </Button>
                   </CardContent>

@@ -16,14 +16,14 @@ import Link from "next/link"
 import { OrganizationSchema } from "@/components/seo/schema-markup"
 const LOCATIONS = [
   {
-    name: "India",
-    imageSrc: "/images/India.png",
-    url: "/contact?location=india",
-  },
-  {
     name: "USA",
     imageSrc: "/images/USA.png",
     url: "/contact?location=usa",
+  },
+  {
+    name: "India",
+    imageSrc: "/images/India.png",
+    url: "/contact?location=india",
   },
   {
     name: "UAE",

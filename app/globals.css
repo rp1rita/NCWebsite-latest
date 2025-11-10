@@ -214,3 +214,30 @@
   );
   animation: shimmer 2.5s infinite;
 }
+
+/* Visible horizontal scrollbar for client logos carousel */
+.client-logos-scrollbar {
+  /* Firefox */
+  scrollbar-width: thin;
+  scrollbar-color: #94A3B8 #F1F5F9; /* thumb, track */
+}
+
+.client-logos-scrollbar::-webkit-scrollbar {
+  height: 10px;
+}
+
+.client-logos-scrollbar::-webkit-scrollbar-track {
+  background: #f1f5f9;
+  border-radius: 9999px;
+}
+
+.client-logos-scrollbar::-webkit-scrollbar-thumb {
+  background-color: #94A3B8; /* slate-400 */
+  border-radius: 9999px;
+  border: 2px solid #f1f5f9;
+}
+
+.client-logos-scrollbar:focus {
+  outline: 3px solid rgba(59,130,246,0.18); /* subtle blue focus ring */
+  outline-offset: 3px;
+}

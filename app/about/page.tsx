@@ -211,7 +211,7 @@ export default function AboutPage() {
           <div className="absolute -bottom-6 -right-6 w-64 h-64 bg-blue-200 rounded-lg"></div>
           <div className="relative z-10 rounded-lg overflow-hidden shadow-2xl">
             <Image
-              src="/placeholder.svg?height=600&width=800"
+              src="/images/NC-Team.jpg?height=600&width=800"
               alt="Team meeting discussing digital transformation strategy"
               width={800}
               height={600}

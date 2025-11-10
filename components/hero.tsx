@@ -147,7 +147,7 @@ export default function Hero() {
           transition={{ duration: 0.8, delay: 1.4 }}
           className="absolute bottom-10 left-1/2 transform -translate-x-1/2 flex flex-col items-center text-blue-200/70 hover:text-white transition-colors duration-300 z-30"
         >
-          <span className="text-sm mb-2">Scroll to explore</span>
+          {/* <span className="text-sm mb-2">Scroll to explore</span> */}
           <motion.div animate={{ y: [0, 5, 0] }} transition={{ duration: 1.5, repeat: Infinity }}>
             <ChevronDown className="h-6 w-6" />
           </motion.div>

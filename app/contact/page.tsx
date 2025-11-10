@@ -141,7 +141,7 @@ export default function ContactPage() {
 
         <PageHeader
           title="Contact Us"
-          subtitle="Connect with our global team across India, USA, and UAE"
+          subtitle="Connect with our global team across USA, India, and UAE"
           backgroundImage="https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1920&h=1080&fit=crop"
         />
 

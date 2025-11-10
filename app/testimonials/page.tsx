@@ -225,7 +225,7 @@ export default function TestimonialsPage() {
     <ThemeProvider attribute="class" defaultTheme="light">
       <MetaTags
         title="Client Testimonials - Success Stories"
-        description="Discover what our clients say about NathCorp's services and solutions. Read success stories and testimonials from businesses across various industries."
+        description="Discover  about NathCorp's services and solutions. Read success stories and testimonials from businesses across various industries."
         keywords="NathCorp testimonials, client success stories, customer reviews, business transformation, digital solutions feedback"
         canonicalUrl="/testimonials"
       />
